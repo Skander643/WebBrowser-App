@@ -27,6 +27,7 @@ Architecture du code :
 
   -Activité principale de l'application.
   -Gère l'interface utilisateur et les interactions avec l'utilisateur.
+  
   2-MyWebViewClient
 
    -Classe interne personnalisée étendant WebViewClient.
